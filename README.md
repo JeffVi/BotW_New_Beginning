@@ -1,4 +1,4 @@
-# BotW_New_Beginning
+# BotW New Beginning
 
 ## ChangeLog
 
