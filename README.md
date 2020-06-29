@@ -8,7 +8,7 @@
 ### ver 0.2
 **Raw food** does **not heal** anymore, **roasted/chilled restore a little**. *Numbers will change but it's basically one heart for now.*
 
-#### Cooking
+#### *Cooking*
 **Cooking** is focused on the **effects** of the food used, and so the healing is **minor** (0.25) for ingredients that **add an effect**.
 
 **MAX items** doesn't give **extra hearts** when cooked, they now **restore** a **fixed ammount** of HP instead. *No more easy Durans.*
